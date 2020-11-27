@@ -32,5 +32,5 @@ some paragraph with text.
 | ---------- | ---------- | ---------- |
 | Content a | content b | content c |
 
-This is being *created* on a  ** Friday ** ~~Saturday~~.
+This is being *created* on a  ** Friday **.
 
