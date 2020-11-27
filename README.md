@@ -10,8 +10,8 @@ Points to make:
 1. First
 2. Two
 3. Three
-    a. alpha
-    b. beta
+    - alpha
+    - beta
 
 [This is the description](www.google.ca)
 
