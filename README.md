@@ -15,4 +15,22 @@ Points to make:
 
 [This is the description](www.google.ca)
 
-Hello test
+This paragraph `Variable` inline code.
+
+```Python
+
+import pandas as pd
+df = pd.read_csv('/Users/izhar/Downloads/TimeTracker.xlsx')
+
+```
+![alt text](http://picsum.photos/200/200)
+
+some paragraph with text.
+> blockquote text below the paragraph
+
+| Heading 1 | Heading 2 | Heading 3|
+| ---------- | ---------- | ---------- |
+| Content a | content b | content c |
+
+This is being *created* on a  ** Friday ** ~~Saturday~~.
+
